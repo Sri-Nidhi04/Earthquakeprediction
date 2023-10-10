@@ -1,2 +1,0 @@
-# Earthquakeprediction
-Artificial Intelligence
